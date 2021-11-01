@@ -1,4 +1,4 @@
-# shalom-tours
+# Vue2-base-project-setup
 
 ## Project setup
 ```
